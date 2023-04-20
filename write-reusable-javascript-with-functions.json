@@ -1,0 +1,1 @@
+{"index.js":"// Example\nfunction ourReusableFunction() {\n  console.log(\"Hi World\");\n}\nourReusableFunction();\n\nfunction reusableFunction() {\n  console.log(\"Hi World\");\nreusableFunction();\n}"}

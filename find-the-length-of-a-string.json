@@ -1,0 +1,1 @@
+{"index.js":"// Example\nvar firstNameLength = 3;\nvar firstName = \"Ada\";\n\nfirstNameLength = firstName.length;\n\n// Setup\nvar lastNameLength = 0;\nvar lastName= \"Lovelace\";\n\n\"Lovelace\".length; // 8\n// Only change code below this line.\n\nlastNameLength = lastName.length; //8\n\n"}
