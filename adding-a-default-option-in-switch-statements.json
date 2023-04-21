@@ -1,0 +1,1 @@
+{"index.js":"function switchOfStuff(val) {\nvar answer = \"\";\n// Only change code below this line\nswitch (val){\ncase 'a':\nanswer = \"apple\";\nbreak;\ncase 'b':\nanswer = \"bird\";\nbreak;\ncase 'c':\nanswer = \"cat\";\nbreak;\ndefault:\nanswer = \"stuff\";\n}\n\n// Only change code above this line\nreturn answer;\n}\n\n// Change this value to test\nswitchOfStuff(1);"}
