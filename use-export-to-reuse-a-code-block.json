@@ -1,0 +1,1 @@
+{"index.js":"const capitalizeString = (string) => {\n  return string.charAt(0).toUpperCase() + string.slice(1);\n}\nexport { capitalizeString } //How to export functions.\nexport const foo = \"bar\"; //How to export variables.\nexport const bar = \"foo\"; "}

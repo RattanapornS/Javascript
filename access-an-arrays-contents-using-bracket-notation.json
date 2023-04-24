@@ -1,0 +1,1 @@
+{"index.js":"let myArray = [\"a\", \"b\", \"c\", \"d\"];\nmyArray[1] = \"not b anymore\";\n// myArray equals \"a\" \"b\"\nconsole.log(myArray);"}
