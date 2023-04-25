@@ -1,0 +1,1 @@
+{"index.js":"function findLongestWordLength(s) {\n  return s\n    .split(' ')\n    .reduce((longest, word) => Math.max(longest, word.length), 0);\n}"}

@@ -1,0 +1,1 @@
+{"index.js":"function truthCheck(collection, pre) {\n  // Is everyone being true?\n  return collection.every(obj => obj[pre]);\n}\n\ntruthCheck([{ name: \"Quincy\", role: \"Founder\", isBot: false }, { name: \"Naomi\", role: \"\", isBot: false }, { name: \"Camperbot\", role: \"Bot\", isBot: true }], \"isBot\");"}

@@ -1,0 +1,1 @@
+{"index.js":"function Dog(name) {\n  this.name = name;\n}\n\nlet beagle = new Dog(\"Snoopy\");\nObject.prototype.isPrototypeOf(Dog.prototype);\nDog.prototype.isPrototypeOf(beagle);  // => true\n\n// Fix the code below so that it evaluates to true\nDog.isPrototypeOf(Dog.prototype);\n"}

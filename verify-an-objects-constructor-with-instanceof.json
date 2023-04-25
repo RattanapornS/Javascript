@@ -1,0 +1,1 @@
+{"index.js":"/* jshint expr: true */\n\nfunction House(numBedrooms , number) {\n    this.numBedrooms = numBedrooms;\n}\n let myHouse = new House(3);\n myHouse instanceof House;\n\n// Add your code below this line\n\n\n"}
